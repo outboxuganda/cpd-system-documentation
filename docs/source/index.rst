@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to CPD system documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
+   Apps
    api
+   Database
